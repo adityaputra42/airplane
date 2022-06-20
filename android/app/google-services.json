@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313402810125",
+    "project_id": "airplane-fb50c",
+    "storage_bucket": "airplane-fb50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313402810125:android:5564c8d82206870f6bda44",
+        "android_client_info": {
+          "package_name": "com.example.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313402810125-jf4m1c1o1hs9vs9ij17maat2hici6n03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aEareIkNV8cdOe4I1v6p71RUcTYmcgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313402810125-jf4m1c1o1hs9vs9ij17maat2hici6n03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
