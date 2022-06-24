@@ -1,6 +1,6 @@
 # airplane
 
-##Preview
+## Preview
 
 ![image 1](assets/ss1.png)
 
