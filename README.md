@@ -1,16 +1,27 @@
 # airplane
 
-A new Flutter project.
+flight ticket booking app
 
-## Getting Started
+with Bloc State Management
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Platform
+ios ✔️
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+android ✔️
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+<table>
+  <tr>
+    <td><img src="assets/ss1.png" width="360px" height="700px"/></td>
+    <td><img src="assets/ss2.png" width="360px" height="700px"/></td>
+    <td><img src="assets/ss3.png" width="360px" height="700px"/></td>
+  </tr>
+</table>
+
+## Development Setup
+Clone the repository and run the following commands:
+
+    flutter pub get
+    flutter run
